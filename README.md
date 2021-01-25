@@ -4,20 +4,53 @@
 Certificate | MOOC | Date Completed | Status |
 ------------ | ------------- | -------------------- | -------------------- |
 **[1_product_management](#1_product_management)**  | Udacity | Apr 2020 | :heavy_check_mark:
-**[5_Data_Engineering](#5_Data_Engineering)**  | Udacity | Apr 2020 | :heavy_check_mark:
-**[6_Data_Streaming](#6_Data_Streaming)**  | Udacity | Apr 2020 | :heavy_check_mark:
-**[7_AWS_Cloud_Architect](#7_AWS_Cloud_Architect)**  | Udacity | Apr 2020 | :heavy_check_mark:
+**[2_Artificial_Intelligence_Product_Management](#2_Artificial_Intelligence_Product_Management)**  | Udacity | Jan 2020 | :heavy_check_mark:
+**[3_Growth_Product_Manager](#3_Growth_Product_Manager)**  | Udacity | Dec 2020 | :heavy_check_mark:
+**[4_Data_Product_Manager](#4_Data_Product_Manager)**  | Udacity | Apr 2021 | :heavy_check_mark:
+**[5_Data_Engineering](#5_Data_Engineering)**  | Udacity | Dec 2020 | :heavy_check_mark:
+**[6_Data_Streaming](#6_Data_Streaming)**  | Udacity | Dec 2020 | :heavy_check_mark:
+**[7_AWS_Cloud_Architect](#7_AWS_Cloud_Architect)**  | Udacity | Dec 2020 | :heavy_check_mark:
+**[8_Full_Stack_Product_Management](#8_Full_Stack_Product_Management)**  | Product School | Jan 2020 | :heavy_check_mark:
 
 
 # [1_product_management](#1_product_management)
 
-## [1_product_management] 
+### [1_product_management] 
 Module | Description | Deliverables |
 ------------ | ------------- | -------------------- |
 M1_Product Strategy | - Create a compelling vision and strategy that will set up the team to solve those problems. - Understand how to communicate effectively to get people excited and invested in your ideas. | ProductPitchTemplate.ppt
 M2_Product Design | Take an idea through concept, design, and user validation phases, and create a spec to handoff to Engineering for development. Use design-thinking methodologies to explore various ideas, and then converge on a single idea. Map out the full concept through creation of a prototype that can be used to validate that you’re solving a problem for real users | - ProductRequirementDocument_V1-SetStage <br> - DesignSprintResearchPlan <br> - ProductRequirementDocument_V2-Handoff
 M3_Product Development | Collaborate with cross-functional teams and stakeholders to guide them through planning and execution. Manage stakeholder expectations and handle risks that arise, reprioritizing feature and sprint priorities to tackle competing requests. | - Co-ordinationActivitiesMap <br> SprintPlanningMeet <br> Re-prioritizeSprintBacklog
 M4_Product Launch | Create a launch plan, identify the launch risks, and figure out how to minimize their impact on your launch. Collaborate with a variety of teams including Marketing, Sales, Customer Support, and more to prepare them to interface with customers as the product is launched. Execute the launch and use feedback from your customers to determine the next steps for your product. | ProductRequirementDocument <br> MarketingGuide <br> Sales_and_CustomerSupport_Guide <br> UserGuide <br> LaunchEmail_Template
+
+# [2_Artificial_Intelligence_Product_Management](#2_Artificial_Intelligence_Product_Management)
+
+### [2_Artificial_Intelligence_Product_Management] 
+Module | Description | Deliverables |
+------------ | ------------- | -------------------- |
+
+# [3_Growth_Product_Manager](#3_Growth_Product_Manager)
+
+### [3_Growth_Product_Manager] 
+
+NanoDegree Course Details: https://www.udacity.com/course/monetization-strategy--nd037-3
+
+**Project:** In this project you will build a monetization model for a post-revenue B2B SaaS business, and then modify it for a different pricing scheme.
+You will be provided with a description of the company, its product, pricing scheme, and a dataset of recent months' activity. 
+Based on this model, you will then come up with product improvements that can improve monetization KPIs as well as suggest a change to the pricing scheme. Finally you will modify the original models to accommodate a given modified pricing scheme.
+
+1. Build a monetization model for a post-revenue B2B SaaS business, and then come up with hypotheses about potential changes to the monetization strategy. 
+2. Build monetization models based on the company, its product, pricing scheme, and a dataset of recent customer transactions.
+3. Identify and create hypotheses about changing the pricing metric and pricing plans to optimize the business’ monetization strategy.
+4. Experimentation plan to test these hypotheses.
+
+Monetization Business Models | 
+------------ |
+1. Acquisition
+2. Unit Economics
+3. Customer Accounting
+4. Revenue Accounting
+5. Growth Ratios
 
 # [5_Data_Engineering](#5_Data_Engineering)
 
@@ -54,7 +87,7 @@ Architecture
 
 6. _Kafka Consumer_: Consume the data in web server that is going to serve the transit status pages to our commuters
 
-# [7_AWS_Cloud_Architect](#7_AWS_Cloud_Architect)
+## [7_AWS_Cloud_Architect](#7_AWS_Cloud_Architect)
 
 NanoDegree Course Details: https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063
 
