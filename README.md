@@ -73,12 +73,11 @@ Project Folder | Project | Detailed Description | Complete
 
 NanoDegree Course Details: https://www.udacity.com/course/data-streaming-nanodegree--nd029
 
-Project: Optimizing Public Transport
-
-To construct an event pipeline around Kafka that allows to simulate and display the status of train lines in real time. A simple static website (dashboard) is built to monitor the trains move from station to station
+**Project:** Optimizing Public Transport
+- To construct an event pipeline around Kafka that allows to simulate and display the status of train lines in real time. A simple static website (dashboard) is built to monitor the trains move from station to station
 Static Website - Real Time dashboard
 
-Architecture
+*Architecture*
 1. _Kafka Producers_: Emit events
 2. _Kafka REST proxy producer_: Weather data is sent to Kafka
 3. _Kafka Connect_: Postgres SQL into Kafka
