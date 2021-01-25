@@ -11,6 +11,18 @@ Degree/Certificate | MOOC | Date Completed | Status |
 **[ND 7 - AWS Cloud Architect](7_AWS_Cloud_Architect)**| Udacity | Dec 2020 | :heavy_check_mark:
 **[ND 8 - Full Stack Product Management](8_Full_Stack_Product_Management)**| Product School | Jan 2020 | :heavy_check_mark:
 
-[click on this link](#my-multi-word-header)
+[click on this link](#1_Product_Management)
 
-### My Multi Word Header
+### 1 Product Management
+
+[click on this link](#2_Artificial_Intelligence_Product_Management)
+
+### 2 Artificial Intelligence Product Management
+
+[click on this link](#3_Growth_Product_Manager)
+
+### 3 Growth Product Manager
+
+[click on this link](#4_Data_Product_Manager)
+
+### 4 Data Product Manager
