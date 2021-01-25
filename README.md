@@ -30,7 +30,7 @@ M4_Product Launch | Create a launch plan, identify the launch risks, and figure 
 NanoDegree Course Details: https://www.udacity.com/course/ai-product-manager-nanodegree--nd088
 
 Project Name | Detailed Description | Complete
------------- | ------------- | -------------------- | ---------
+------------ | ------------- | -------------------- | 
 Create a Medical Image Annotation Data Set with Appen | - In this project, you will create an annotated training data set on Appen’s platform. You’ll build a classification system that can help flag serious cases of pneumonia. | :heavy_check_mark:
 Build a Model with Google AutoML | - Build models using automated machine learning, from data to results with no coding required. You’ll implement your model with four different variants of data to evaluate how the data affects performance. | :heavy_check_mark:
 Capstone Project | - Develop a business proposal for an AI product for a use case of your choosing. You’ll develop the business case, define success metrics, scope the dataset and build a post-deployment monitoring plan. | :heavy_check_mark:
