@@ -16,6 +16,17 @@ Degree/Certificate | MOOC | Date Completed | Status |
 
 Hello, this is some text to fill in this, [ND 1 - Product Management](#1_Product_Management), is a link to the second place.
 
+
+
+
+
+
+
+
+
+
+
+
 ### 1 Product Management
 
 https://www.udacity.com/course/product-manager-nanodegree--nd036
